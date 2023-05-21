@@ -51,7 +51,7 @@ function startAnimation(panelItems = []) {
    const option1 = {
     decimalPlaces: 1, // 保留一位小数点 
     duration: 2,
-    useGrouping: false, // 1000 -> 1,000
+    useGrouping: true, // 1000 -> 1,000
   }
   const option2 = {
     decimalPlaces: 1, // 保留一位小数点 
@@ -72,8 +72,8 @@ function startAnimation(panelItems = []) {
   width: 100%;
   height: 100%;
   display: flex;
-  flex-direction: row;
   align-items: center;
+  /* flex-direction: row; */
   /* padding-top: 40px; */
 }
 

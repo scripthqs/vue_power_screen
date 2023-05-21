@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="509px" height="810px" viewBox="0 0 509 810" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>05</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="2.17797051%" y1="50%" x2="100%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#0072FF" offset="0%"></stop>
+            <stop stop-color="#00EAFF" offset="49.0136501%"></stop>
+            <stop stop-color="#01AAFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="05" transform="translate(-4.000000, -6.000000)">
+            <polyline id="bottom_left" stroke="#00A2FF" stroke-width="2" points="
+            34 582,
+            6 582, 
+            6 554"></polyline>
+            <polyline id="bottom_left-copy" stroke="#00A2FF" stroke-width="2" transform="translate(497.992000, 305.992000) scale(-1, 1) translate(-497.992000, -305.992000) " points="
+            512 582, 
+            484 582, 
+            484 554"></polyline>
+            <text id="text-copy-3" fill="url(#linearGradient-1)" font-family="SourceHanSansCN-Medium, Source Han Sans CN" font-size="22" font-weight="400">
+                <tspan x="36" y="35">滑板车生成动画</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

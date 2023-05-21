@@ -23,15 +23,15 @@ import WaterBall from "./water-ball.vue";
 const props = defineProps({
   percentage: {
     type: Number,
-    default: 0
+    default: 0,
   },
   panelItems: {
     type: Array,
-    default: function() {
-      return []
-    }
-  }
-}) 
+    default: function () {
+      return [];
+    },
+  },
+});
 </script>
 
 <style scoped>
@@ -42,7 +42,6 @@ const props = defineProps({
   flex-direction: row;
   align-items: center;
 }
-
 
 .right-top-panel .right-water-ball {
   width: 269px;

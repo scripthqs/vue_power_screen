@@ -1209,7 +1209,7 @@
     </svg> 
 
 
-    <!-- 防烟花特效 -->
+    <!-- 放烟花特效 -->
     <img class="lingxA" src="../assets/images/ling/lingxA.png" />
     <img class="lingxB" src="../assets/images/ling/lingxB.png" />
     <img class="lingxC" src="../assets/images/ling/lingxC.png" />
@@ -1687,7 +1687,7 @@
   }
 
   #icon_home_foshan{
-    animation: updown 1.9s ease-in infinite;
+    animation: updown 1s ease-in infinite;
   }
 
   #icon_location_zhongshan{
@@ -1747,7 +1747,7 @@
 
 .cls-13,
 .cls-14{
-  animation: lightEffect 3s linear infinite;
+  animation: lightEffect 1s linear infinite;
 }
 
 @keyframes lightEffect{
