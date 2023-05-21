@@ -38,7 +38,7 @@ import gsap from "gsap";
 onMounted(() => {
   let tl = gsap.timeline({
     repeat: -1, // 重复的次数
-    // yoyo: true // 反向执行动画
+    yoyo: true, // 反向执行动画
   });
 
   // 1.给车轮做动画

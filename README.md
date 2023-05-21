@@ -12,7 +12,7 @@
    - 可以利用 css3 的 animation 可以做动画，常见的上下左右移动动画(translate)，闪烁动画(opacity)
    - 利用子绝父相，将元素定位到合适的位置，再配合动画实现烟花效果(translate + opacity)
 6. 使用 CountUp.js 插件可以实现动态数字变化的效果
-7. 使用 gsap 插件可以实现入场动画
+7. 使用 gsap 插件可以实现动画
 
 This template should help get you started developing with Vue 3 in Vite.
 
